@@ -97,6 +97,8 @@
     /*--------------------------
         Datepicker
     ----------------------------*/
-    $( ".datepicker_pop" ).datepicker();
+    // $( ".datepicker_pop" ).datepicker();
+
+    AOS.init();
 
 })(jQuery);
