@@ -3010,7 +3010,13 @@ ol {
 		width: 155px;
 		margin-bottom:20px;
 	}
-
+	html, body
+	{
+	width: 100%;
+	overflow-x: hidden;
+	}
+	
+	
 }
 
 .yellow a{
