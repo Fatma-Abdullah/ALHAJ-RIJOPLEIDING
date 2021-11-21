@@ -3029,3 +3029,13 @@ ol {
 .primary-btn:hover{
 	box-shadow: -1px 2px 10px 1px #627e0f;
 }
+.pricingInfo{
+	display: block;
+    color: #eedfaa !important;
+    text-transform: capitalize !important;
+	margin: 5px 0 !important;
+
+}
+.pricing__item .pricing__item__title h2{
+	margin-bottom: 9px;
+}
