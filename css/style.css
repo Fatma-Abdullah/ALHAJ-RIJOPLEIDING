@@ -2347,7 +2347,7 @@ ol {
 
 .map {
 	height: 400px;
-	margin-top: 60px;
+	/* margin-top: 60px; */
 }
 
 .map iframe {
@@ -3038,4 +3038,11 @@ ol {
 }
 .pricing__item .pricing__item__title h2{
 	margin-bottom: 9px;
+}
+.contact__address a {
+    display: flex;
+    align-items: center;
+}
+.contact__address a:hover p {
+   color:rgb(243 189 0);
 }
